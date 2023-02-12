@@ -1,0 +1,90 @@
+
+body{
+    background-color: blanchedalmond;
+    background-image: url("imgg.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kush{
+ background-color: pink;
+ margin: auto;
+ text-align: center;
+ height: 400px;
+ width: 700px;
+ border-radius: 5%;
+ background-image: url("imagesjj.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sharma{
+    text-align: center;
+    margin: auto;
+    background-color: green;
+    color: black;
+    font-size: xx-large
+}
+.sharma:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+    color: white;
+    border: 4px solid rgb(239, 12, 243);
+   
+}
+#joke{
+    background-color: rgb(156, 166, 162);
+    height: 200px;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    color:rgb(3, 3, 248);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+#joke:hover{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("imgg.webp");
+  /* filter: sepia(100%);
+        -webkit-filter: sepia(100%); */
+  
+}
+
+.button {
+  background-color: #98ed9b; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.6s;
+  cursor: pointer;
+  
+    background-color: rgb(147, 194, 236); 
+    color: black; 
+    border: 2px solid #fd0707;
+  
+}
+.button:hover {
+  background-color: #d077ee;
+  color: white;
+  border: 4px solid #2104f9;
+  border-radius: 20px;
+  text-overflow: ;
+}
+    
+  
+
